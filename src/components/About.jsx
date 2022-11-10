@@ -14,8 +14,9 @@ export default function About() {
       <div className="interests">
         <h2>Interests</h2>
         <p>
-          Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-          Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+          Novice Chef .Passionate Baker.Music scholar. Reader. Internet
+          fanatic.Want to try korean Fried Chicken. Entrepreneur. Travel geek.
+          Pop culture ninja. Coffee fanatic.
         </p>
       </div>
     </div>
